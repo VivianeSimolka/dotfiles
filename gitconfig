@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = viviane.thomas@gmail.com
+	name = Viviane Simolka
